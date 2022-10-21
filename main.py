@@ -1,6 +1,7 @@
 # Metronome Training
 # Made by Hagop Ketchedjian
 # Version 1.0
+# November 2021
 
 import random
 from playsound import playsound
